@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the mayor whereas by the laws and statutes of this realm, constituting and appointing the assize of fewel, it is provided and required that all billets and faggots exposed to sale shall contain the demensions following ...</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26161</idno><idno type="EEBO-CITATION">31360546</idno>
+  <idno type="VID">205907</idno>
+  <idno type="EEBO-PROQUEST">2248547225</idno>
+  
+            <idno type="STC">Wing L2885Y</idno>
+            <idno type="OCLC">31360546</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1745:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the mayor whereas by the laws and statutes of this realm, constituting and appointing the assize of fewel, it is provided and required that all billets and faggots exposed to sale shall contain the demensions following ...</title>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>Ward, Patience, Sir, 1629-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft, Printer to the Honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information taken from first lines of text.</note>
+                  <note>"Given at the Guild-Hall of the City of London, the Second Day of April, in the Three and Thirtieth year of his Majesties Reign."</note>
+                  <note>Reproduction of original in Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fuelwood industry --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205907:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London, consisting of a shield bearing the cross of St. George (patron saint of England) with a sword (emblem of the martyrdom of St. Paul, patron saint of London) in the first quarter of the shield</figDesc>
+               </figure>
+            </head>
+            <head>By the Mayor.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the Laws and Statutes of this Realm, constituting and appointing the Assize of Fewel, It is provided and required, That all Billets and Fag<g ref="char:EOLhyphen"/>gots exposed to Sale, shall contain the Demensions following; that is to say, Every Billet shall contain in length, Three Foot Four Inches; And e<g ref="char:EOLhyphen"/>very Billet named a Single, shall contain in compass, being round bodi'd, Seven Inches and an half; And no Single to be made or marked out of Cleft Wood. And every Billet marked One, commonly called a Cast, to con<g ref="char:EOLhyphen"/>tain in compass, being round, Eleven Inches; And half round, Thirteen Inches; And being quarter Cleft, to contain in compass Twelve Inches and an half. And every Billet marked Two, commonly called Two Cast, to contain in compass, being round, Sixteen Inches: And half round, Nineteen Inches; And being quarter cleft, to contain in compass Eighteen Inches and an half. And all Faggots shall contain in compass, besides the Knot of the Bond, Four and Twenty Inches; And every Faggot-Stick or Bend within the said Bond, to contain in length full Three Foot, except only one Stick or Bend to be One Foot long, to stop or harden the binding thereof. Now the Right Honourable the Lord Mayor of this City of <hi>London</hi> being informed that notwithstanding the Pe<g ref="char:EOLhyphen"/>nalty in that case provided, whereby all unsized Fewel is to be seized, as forfeited: And notwith<g ref="char:EOLhyphen"/>standing a publick Admonition given by Sir <hi>Thomas Davies</hi> Lord Mayor, in the time of his Mayo<g ref="char:EOLhyphen"/>ralty, that the said Forfeitures should be taken, great Quantities of Billets and Faggots wanting the Assize aforesaid, are continually exposed to Sale within this City and Liberties, to the great deceit and abuse of the Citizens and Inhabitants thereof: His Lordship is resolved to use his utmost En<g ref="char:EOLhyphen"/>deavour that the said Laws may hereafter, be within this City, more carefully and duly observed; and hath for that end given strict and positive Orders, That all Billets and Faggots exposed to Sale within this City and the Liberties thereof, that shall be found to want of their due Assize, accord<g ref="char:EOLhyphen"/>ing to the demensions aforesaid, shall be seized and disposed of as by the said Laws is appointed. And his Lordship gives this publick Intimation of his Resolution herein; to the end all Persons that shall hereafter bring up to this City any Billets or Faggots to be sold, may take care that the same be of the full Assize, and thereby avoid the Penalty in that behalf.</p>
+            <closer>
+               <dateline>Given at the <hi>Guild-Hall</hi> of the City of <hi>London,</hi>
+                  <date>the Second Day of <hi>April,</hi> in the Three and Thirtieth Year of his Majesties Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>LONDON.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
